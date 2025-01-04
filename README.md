@@ -1,5 +1,6 @@
 - Hi, I’m @SwordofAcorns (Or Ashley)
 - I'm new to programming and am learning Python and 68k Assemmbly for Classic Macs!
+- I'm hoping to use GitHub to show my progress and hopefully make things that people find useful one day!
 - 21, MTF Transfeminine Enby
 - 📫 How to reach me ...: No social media yet
 - Pronouns: ...She/They
